@@ -1,18 +1,20 @@
 # Hi, I'm MathAff (Olá, sou MathAff)
 I'm a high school student coursing the 3rd grade and a technician IT course.
-
 (Sou um estudante do Ensino Médio cursando o 3º ano e um curso técnico em TI.)
 
 I'm also very curious, always trying to learn something new, pushing my self in different types of challenges to improve my skills. Overall I'm interested in the development world.
-
 (Também so muito curioso, sempre tento aprender coisas novas, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo do desenvolvimento)
+
 
 ## 👀 I'm interested in (Tenho interesse em):
 - *Web development;*
 - *Database management;*
 - *Game development;*
 
-## 🎓 What do I know? (O que eu sei?)
+
+
+
+## 🎓 What do I know? (O que eu sei?):
 
 **Programming Languages:**
 <div style='display: flex;'>
