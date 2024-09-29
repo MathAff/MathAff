@@ -15,24 +15,29 @@ I'm also very curious, always trying to learn something new, pushing my self in 
 ## 🎓 What do I know? (O que eu sei?)
 
 **Programming Languages:**
-
+<div style='display: flex;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='100px'/>
+</div>
 
  **Markup and Style Languages:**
 
 
+<div style='display: flex;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='100px'/> 
+</div>
 
 
 **Database Technologies:**
 
+<div style='display: flex;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='100px'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width='100px'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width='100px'/>
+</div>
 
 
 **Workspaces/IDE:**
