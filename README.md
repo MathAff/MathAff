@@ -7,6 +7,5 @@ I'm also doing a technitian IT course. Overall I'm interested in the development
 - *Game development;*
 
 ## 🎓What do I know?
-
-    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
