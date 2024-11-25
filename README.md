@@ -15,6 +15,9 @@ I'm also very curious, always trying to learn something new, pushing my self in 
 - *Game development;*
 
 
+![MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![MathAff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathAff&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## 🎓 What do I know? (O que eu sei?):
@@ -56,3 +59,5 @@ I'm also very curious, always trying to learn something new, pushing my self in 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width='100px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width='100px'/>
 </div>
+
+![MathAff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathAff&theme=vue-dark&hide_border=true)
