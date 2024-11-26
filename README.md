@@ -7,14 +7,11 @@ I'm a high school student coursing the 3rd grade and a technician IT course.
 I'm also very curious, always trying to learn something new, pushing my self in different types of challenges to improve my skills. Overall I'm interested in the technology world.
 
 (Também sou muito curioso, sempre tento aprender algo novo, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo da tecnologia)
-
-
-<div style='display: flex; align-items: center; justify-content: center;'>
     
 [MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=dracula&show_icons=true&hide_border=true&count_private=true)
     
 ![MathAff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathAff&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-</div>
+
 ## 👀 I'm interested in (Tenho interesse em):
 - *Web development;*
 - *Database management;*
