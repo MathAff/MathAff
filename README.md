@@ -8,7 +8,7 @@ I'm also very curious, always trying to learn something new, pushing my self in 
 
 (Também sou muito curioso, sempre tento aprender algo novo, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo da tecnologia)
     
-[MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=dracula&show_icons=true&hide_border=true&count_private=true)
     
 ![MathAff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathAff&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
