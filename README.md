@@ -59,6 +59,6 @@ I'm also very curious, always trying to learn something new, pushing my self in 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width='100px'/>
 </div>
 
-#Streak
+# Streak
 
 ![MathAff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathAff&theme=dracula&hide_border=true)
