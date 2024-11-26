@@ -8,9 +8,9 @@ I'm also very curious, always trying to learn something new, pushing my self in 
 
 (Também sou muito curioso, sempre tento aprender algo novo, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo da tecnologia)
 
-![MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![MathAff's Stats](https://github-readme-stats.vercel.app/api?username=MathAff&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![MathAff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathAff&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![MathAff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathAff&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 👀 I'm interested in (Tenho interesse em):
 - *Web development;*
@@ -59,4 +59,6 @@ I'm also very curious, always trying to learn something new, pushing my self in 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width='100px'/>
 </div>
 
-![MathAff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathAff&theme=vue-dark&hide_border=true)
+#Streak
+
+![MathAff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MathAff&theme=dracula&hide_border=true)
