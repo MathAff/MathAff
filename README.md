@@ -66,9 +66,9 @@ I'm also very curious, always trying to learn something new, pushing my self in 
 # 🔗 Links 
 
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/matheus-afensor-7a7aa7310)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram)](www.instagram.com/math_affs)
-[![E-mail](https://img.shields.io/badge/E--mail-Contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusafensor@gmail.com)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-afensor-7a7aa7310)
+[![Static Badge](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/math_affs)
+[![Static Badge](https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=gmail)](mailto:matheusafensor@gmail.com)
 [![Discord](https://img.shields.io/badge/Mathafe%23702879489050411120-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 
