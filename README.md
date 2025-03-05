@@ -1,10 +1,10 @@
 # Hi, I'm MathAff (Olá, sou MathAff)
 
-I'm a high school student coursing the 3rd grade and a technician IT course.
+I'm a college student coursing Systems Analysis and Development.
 
-(Sou um estudante do Ensino Médio cursando o 3º ano e um curso técnico em TI.)
+(Sou um universitário cursando Análise e Desenvolvimento de Sistemas.)
 
-I'm also very curious, always trying to learn something new, pushing my self in different types of challenges to improve my skills. Overall I'm interested in the technology world.
+I'm also very curious, always trying to learn something new, pushing my self through different types of challenges to improve my skills. Overall I'm interested in the technology world.
 
 (Também sou muito curioso, sempre tento aprender algo novo, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo da tecnologia)
     
