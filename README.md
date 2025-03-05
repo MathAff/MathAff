@@ -1,10 +1,10 @@
 # Hi, I'm MathAff (Olá, sou MathAff)
 
-I'm a college student coursing Systems Analysis and Development.
+I'm an Informatic Technician and also a college student coursing Systems Analysis and Development.
 
-(Sou um universitário cursando Análise e Desenvolvimento de Sistemas.)
+(Sou um Técnico em Informática e também universitário cursando Análise e Desenvolvimento de Sistemas.)
 
-I'm also very curious, always trying to learn something new, pushing my self through different types of challenges to improve my skills. Overall I'm interested in the technology world.
+I'm very curious, always trying to learn something new, pushing my self through different types of challenges to improve my skills. Overall I'm interested in the technology world.
 
 (Também sou muito curioso, sempre tento aprender algo novo, me esforçando em diferentes tipos de desafios para melhorar minhas habilidades. Sobretudo, eu sou interessado no mundo da tecnologia)
     
